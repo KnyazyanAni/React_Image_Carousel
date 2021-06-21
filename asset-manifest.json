@@ -1,23 +1,27 @@
 {
   "files": {
-    "main.css": "/React_Image_Carousel/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/React_Image_Carousel/static/js/main.0eede88e.chunk.js",
-    "main.js.map": "/React_Image_Carousel/static/js/main.0eede88e.chunk.js.map",
-    "runtime-main.js": "/React_Image_Carousel/static/js/runtime-main.505f31ac.js",
-    "runtime-main.js.map": "/React_Image_Carousel/static/js/runtime-main.505f31ac.js.map",
-    "static/js/2.2a2ed472.chunk.js": "/React_Image_Carousel/static/js/2.2a2ed472.chunk.js",
-    "static/js/2.2a2ed472.chunk.js.map": "/React_Image_Carousel/static/js/2.2a2ed472.chunk.js.map",
-    "static/js/3.95280ddb.chunk.js": "/React_Image_Carousel/static/js/3.95280ddb.chunk.js",
-    "static/js/3.95280ddb.chunk.js.map": "/React_Image_Carousel/static/js/3.95280ddb.chunk.js.map",
+    "main.css": "/React_Image_Carousel/static/css/main.db1160bf.chunk.css",
+    "main.js": "/React_Image_Carousel/static/js/main.95229c6c.chunk.js",
+    "main.js.map": "/React_Image_Carousel/static/js/main.95229c6c.chunk.js.map",
+    "runtime-main.js": "/React_Image_Carousel/static/js/runtime-main.ce02079d.js",
+    "runtime-main.js.map": "/React_Image_Carousel/static/js/runtime-main.ce02079d.js.map",
+    "static/js/2.13f3336e.chunk.js": "/React_Image_Carousel/static/js/2.13f3336e.chunk.js",
+    "static/js/2.13f3336e.chunk.js.map": "/React_Image_Carousel/static/js/2.13f3336e.chunk.js.map",
     "index.html": "/React_Image_Carousel/index.html",
-    "static/css/main.9d5b29c0.chunk.css.map": "/React_Image_Carousel/static/css/main.9d5b29c0.chunk.css.map",
-    "static/js/2.2a2ed472.chunk.js.LICENSE.txt": "/React_Image_Carousel/static/js/2.2a2ed472.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/React_Image_Carousel/static/media/logo.6ce24c58.svg"
+    "static/css/main.db1160bf.chunk.css.map": "/React_Image_Carousel/static/css/main.db1160bf.chunk.css.map",
+    "static/js/2.13f3336e.chunk.js.LICENSE.txt": "/React_Image_Carousel/static/js/2.13f3336e.chunk.js.LICENSE.txt",
+    "static/media/Grand.1fcb3c5a.jpg": "/React_Image_Carousel/static/media/Grand.1fcb3c5a.jpg",
+    "static/media/arizona-waves.b51063aa.jpg": "/React_Image_Carousel/static/media/arizona-waves.b51063aa.jpg",
+    "static/media/benagil-cave.246b1fb6.jpg": "/React_Image_Carousel/static/media/benagil-cave.246b1fb6.jpg",
+    "static/media/chocolatehills.3324b462.jpg": "/React_Image_Carousel/static/media/chocolatehills.3324b462.jpg",
+    "static/media/lakes-kelimutu.2483ac7c.jpg": "/React_Image_Carousel/static/media/lakes-kelimutu.2483ac7c.jpg",
+    "static/media/pink-lake.53d1a3dd.jpg": "/React_Image_Carousel/static/media/pink-lake.53d1a3dd.jpg",
+    "static/media/underwater-waterfall.9269f2c7.jpg": "/React_Image_Carousel/static/media/underwater-waterfall.9269f2c7.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.505f31ac.js",
-    "static/js/2.2a2ed472.chunk.js",
-    "static/css/main.9d5b29c0.chunk.css",
-    "static/js/main.0eede88e.chunk.js"
+    "static/js/runtime-main.ce02079d.js",
+    "static/js/2.13f3336e.chunk.js",
+    "static/css/main.db1160bf.chunk.css",
+    "static/js/main.95229c6c.chunk.js"
   ]
 }
